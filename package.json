@@ -1,6 +1,6 @@
 {
   "name": "selector-search-qv",
-  "version": "0.1",
+  "version": "0.1.0beta",
   "description": "selector with search for react-native",
   "main": "index.js",
   "scripts": {
